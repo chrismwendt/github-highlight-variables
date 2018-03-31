@@ -1,5 +1,5 @@
-# github-reactions-minimap
+# github-highlight-variables
 
-This is a Chrome extension which displays green/red sections in the scrollbar which represent comment reactions:
+This is a Chrome extension which highlights variables in code on hover:
 
 ![](preview.png)
